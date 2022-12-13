@@ -15,7 +15,7 @@
     "bootstrap-vue": "^2.12.0",
     "bower": "^1.8.8",
     "core-js": "^3.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "material-icons": "^0.3.1",
     "mdbvue": "^6.7.1",
     "v-video-embed": "^1.0.5",
